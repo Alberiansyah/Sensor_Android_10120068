@@ -1,0 +1,1 @@
+Saat projek dibuka tolong tambahkan manual Run/Debug configuration di tab "Edit confinguration" dan tambahkan yang baru, entah mengapa saat aplikas baru di clone menu run harus ditambahkan manual.
