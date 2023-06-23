@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Sensor_Android_10120068"
 include ':app'
-include ':volley'
